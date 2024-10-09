@@ -1,4 +1,4 @@
-# OSN Course Project - Implementing NFS from scratch ( Team 12 )
+# File-Network-System
 
 Error handling that needs to done :
 1. Check if file / dir already exists when asking to create
