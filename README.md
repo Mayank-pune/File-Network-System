@@ -1,1 +1,5 @@
-# File-Network-System
+# OSN Course Project - Implementing NFS from scratch ( Team 12 )
+
+Error handling that needs to done :
+1. Check if file / dir already exists when asking to create
+2. Chek if file / dir exists when asking to delete
